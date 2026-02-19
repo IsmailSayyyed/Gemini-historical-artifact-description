@@ -24,10 +24,16 @@ python-dotenv
 
 ## PROJECT DOCUMENTATION
 The link for the project documentation that has more information about this project : 
-https://drive.google.com/file/d/1dEqxAIe6RzOhkm67_-zDwKNG3SWCI8ic/view?usp=sharing
+https://drive.google.com/file/d/1VKAW9mgjCTPOFghvz38h69Yv7diwbY8n/view?usp=sharing
 ## DEMO VIDEO
 The link for the demo video of the project : https://drive.google.com/file/d/10l5jT9GGMeM4UUmOVSsrj8VZG-tQ1slN/view?usp=sharing
 
+**🔗Authors**
+Devlopers : Sayyed Mahaboobvali
+
+Team Leader : Kovvuri Adilakshmi
+Team member : Nasreen Shaik
+Team member : Nishanth Reddy Penumallu
 
 
 
